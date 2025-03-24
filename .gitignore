@@ -1,0 +1,62 @@
+<LeftMouse># Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+*.venv/
+env/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test coverage reports
+htmlcov/
+*.cover
+*.py,cover
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.lcov
+
+# MyPy
+.mypy_cache/
+
+# PyInstaller
+*.spec
+
+# Cython
+cython_debug/
+
+# VS Code settings
+.vscode/
+
+# IDE files
+.idea/
+*.iml
+
+# Poetry
+.poetry/
+
+# PyCharm
+*.pyc
+*.pyo
+*.pyd
+
